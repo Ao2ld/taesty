@@ -1,5 +1,13 @@
-#hello there, this is my playground
+# hello there, this is my playground
 
-x = 42
-if x > 5:
-        print(str(x) + " is greater than 5")
+x = 10
+
+y = 20
+
+if x > y:
+
+   print(x+y)
+
+else:
+
+   print(y-x)
